@@ -4,21 +4,9 @@ Machine Learning Regression Project with Flask Web App
 A complete end-to-end machine learning project that predicts the selling price of a used car using key input parameters like model name, company, year, kilometers driven, and fuel type.
 This repository contains the ML model, training notebook, Flask backend, and a simple responsive frontend.
 
-car-price-predictor/
-│── model/
-│   └── model.pkl
-│── static/
-│   └── style.css
-│── templates/
-│   └── index.html
-│── app.py
-│── dataset.csv
-│── notebook.ipynb
-│── requirements.txt
-└── README.md
 
 ## Clone Repo
-git clone https://github.com/DeepTensor-3070/Car-Price-Predictor.git
+git clone https://github.com/DeepTensor-3070/Car-Price-Predictor.git <br>
 cd car-price-predictor
 
 ## Install dependencies
@@ -31,7 +19,7 @@ python app.py
 http://127.0.0.1:5000/
 
 ## Sample Request
-{
+{ 
   "name": "Swift",
   "company": "Maruti",
   "year": 2019,

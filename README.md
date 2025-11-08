@@ -19,20 +19,20 @@ python app.py
 http://127.0.0.1:5000/
 
 ## Sample Request
-{ 
-  "name": "Swift",
-  "company": "Maruti",
-  "year": 2019,
-  "kms_driven": 30000,
-  "fuel_type": "Petrol"
+{ <br>
+  "name": "Swift",<br>
+  "company": "Maruti",<br>
+  "year": 2019,<br>
+  "kms_driven": 30000,<br>
+  "fuel_type": "Petrol"<br>
 }
 
 ## Sample Response
-{
-  "prediction": 520000
+{<br>
+  "prediction": 520000<br>
 }
 
 ## 👤 Author
-Subhanshu Verma
+Subhanshu Verma <br>
 Data Scientist
 
